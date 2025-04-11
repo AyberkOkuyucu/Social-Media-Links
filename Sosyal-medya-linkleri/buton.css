@@ -1,0 +1,19 @@
+.btn {
+    display: inline-block;  
+    width: 250px;           
+    padding: 15px 20px;
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: 0.2s;
+  }
+  .btn:hover{
+    background-color: #C4F82A;
+  }
+  .btn:focus{
+    color: #333333;
+    background-color: #C4F82A;
+  }
